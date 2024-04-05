@@ -1,0 +1,17 @@
+{
+  "name": "introapi",
+  "version": "1.0.0",
+  "description": "MY intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "intro"
+  ],
+  "author": "DineshSharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.0.0-beta.2"
+  }
+}
